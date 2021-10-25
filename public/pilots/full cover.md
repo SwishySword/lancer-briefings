@@ -1,18 +1,18 @@
 ## CALLSIGN
 
-Full Cover
+	Full Cover
 
 ## LEGAL ALIAS
 
-Gerald
+	Gerald
 
 ## ORGANIZATION
 
-LU, LFM, Affiliate
+	LU, LFM, Affiliate
 
 ## ROLE
 
-Liberation Expert
+	Liberation Expert
 
 ## INFO
 

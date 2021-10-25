@@ -1,18 +1,18 @@
 ## CALLSIGN
 
-Spartan
+	Spartan
 
 ## LEGAL ALIAS
 
-Cosma Gamer
+	Cosma Gamer
 
 ## ORGANIZATION
 
-UN-NDAP
+	UN-NDAP
 
 ## ROLE
 
-CQC Specialist
+	CQC Specialist
 
 ## INFO
 

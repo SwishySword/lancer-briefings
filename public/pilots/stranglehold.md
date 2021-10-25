@@ -1,18 +1,18 @@
 ## CALLSIGN
 
-Stranglehold
+	Stranglehold
 
 ## LEGAL ALIAS
 
-John Torque
+	John Torque
 
 ## ORGANIZATION
 
-DoJ/HR, Retired
+	DoJ/HR, Retired
 
 ## ROLE
 
-Rapid Response Expert
+	Rapid Response Expert
 
 ## INFO
 

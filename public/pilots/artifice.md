@@ -1,18 +1,18 @@
 ## CALLSIGN
 
-Artifice
+	Artifice
 
 ## LEGAL ALIAS
 
-Hephaestus
+	Hephaestus
 
 ## ORGANIZATION
 
-UEB
+	UEB
 
 ## ROLE
 
-Machine Analyst
+	Machine Analyst
 
 ## INFO
 

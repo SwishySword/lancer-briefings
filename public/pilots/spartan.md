@@ -16,6 +16,8 @@
 
 ## INFO
 
+*(She/Her)*
+
 Streamer-turned-Auxiliary, sixth of the Gamer-line of clones (see: [**daeftc098812_bv098**]).  Exploded in popularity after piloting an unlicensed **GMS EVEREST** against a pirate raid on **KICROLIV-2**.  Recruited simultaneously with **OWLBLOT**, who designed her frame.
 
 Designated element of Task Force **ECHO-ALPHA-ECHO-OMEGA**.

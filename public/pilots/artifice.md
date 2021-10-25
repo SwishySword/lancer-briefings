@@ -16,6 +16,8 @@
 
 ## INFO
 
+*(They/Them)*
+
 UEB-assigned NHP, partnered with **RAVEN** for the purpose of investigating and auditing **LANDMARK COLONIAL'S** holdings.  Full suite of engineering and electronic-rigging capabilities.  Has a passion for frame manufacturing.
 
 ## Trivia

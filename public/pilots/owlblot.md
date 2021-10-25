@@ -6,5 +6,5 @@ Designated element of Task Force **ECHO-ALPHA-ECHO-OMEGA**.
 
 - Adept at research and recovery
 - Listens to loud classic music at all times, be aware when open commlines
-- Drone and rigging expertise
+- Not a known member of any HORUS Cults (see addendum [550a8g_vh11j8])
 - Dabbles in frame building

@@ -1,16 +1,21 @@
-##CALLSIGN
+## CALLSIGN
+
 Spartan
 
-##LEGAL ALIAS
+## LEGAL ALIAS
+
 Cosma Gamer
 
-##ORGANIZATION
+## ORGANIZATION
+
 UN-NDAP
 
-##ROLE
+## ROLE
+
 CQC Specialist
 
-##INFO
+## INFO
+
 Streamer-turned-Auxiliary, sixth of the Gamer-line of clones (see: [**daeftc098812_bv098**]).  Exploded in popularity after piloting an unlicensed **GMS EVEREST** against a pirate raid on **KICROLIV-2**.  Recruited simultaneously with **OWLBLOT**, who designed her frame.
 
 Designated element of Task Force **ECHO-ALPHA-ECHO-OMEGA**.

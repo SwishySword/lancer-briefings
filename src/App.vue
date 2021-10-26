@@ -98,11 +98,6 @@ export default {
           "name": "Situation on Ground",
           "status": "start"
         },
-        {
-          "slug": "000a",
-          "name": "Simulation Battle",
-          "status": "start"
-        },
       ],
       "pilots": [
         {

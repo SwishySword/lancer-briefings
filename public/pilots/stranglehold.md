@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Stranglehold
-
-## LEGAL ALIAS
-
-	John Torque
-
 ## ORGANIZATION
 
 	DoJ/HR, Retired

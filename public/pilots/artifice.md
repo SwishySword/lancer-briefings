@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Artifice
-
-## LEGAL ALIAS
-
-	Hephaestus
-
 ## ORGANIZATION
 
 	UEB

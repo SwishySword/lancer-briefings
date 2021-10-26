@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Raven
-
-## LEGAL ALIAS
-
-	Ayla Ourania
-
 ## ORGANIZATION
 
 	UEB

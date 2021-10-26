@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Spartan
-
-## LEGAL ALIAS
-
-	Cosma Gamer
-
 ## ORGANIZATION
 
 	UN-NDAP

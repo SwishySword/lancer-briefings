@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Full Cover
-
-## LEGAL ALIAS
-
-	Gerald
-
 ## ORGANIZATION
 
 	LU, LFM, Affiliate

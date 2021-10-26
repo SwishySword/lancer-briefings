@@ -1,11 +1,3 @@
-## CALLSIGN
-
-	Owlblot
-
-## LEGAL ALIAS
-
-	Kit
-
 ## ORGANIZATION
 
 	UN-NDAP

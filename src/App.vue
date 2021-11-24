@@ -94,14 +94,14 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "000",
-          "name": "Situation on Ground",
-          "status": "success"
-        },
-        {
           "slug": "001",
           "name": "Bug Hunt",
           "status": "start"
+        },
+        {
+          "slug": "000",
+          "name": "Situation on Ground",
+          "status": "success"
         },
       ],
       "pilots": [
